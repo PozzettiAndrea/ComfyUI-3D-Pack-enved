@@ -1,7 +1,7 @@
 [types]
 TRIMESH = "custom"
 
-[node_reqs]
+[node_packs]
 ComfyUI-KJNodes = "kijai/ComfyUI-KJNodes"
 ComfyUI-VideoHelperSuite = "Kosinkadink/ComfyUI-VideoHelperSuite"
 ComfyUI_IPAdapter_plus = "cubiq/ComfyUI_IPAdapter_plus"
